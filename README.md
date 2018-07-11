@@ -1,1 +1,2 @@
-# whyjs
+# Initial page
+
